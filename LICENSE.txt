@@ -1,0 +1,18 @@
+Copyright (c) 2026 Valcohr Analytics
+Todos los derechos reservados.
+
+Este software es propiedad exclusiva de Valcohr Analytics. Fue desarrollado
+para uso de Ramiara Marketing & Desarrollo bajo licencia de uso.
+
+Queda prohibida la reproducción, distribución, modificación, ingeniería
+inversa, descompilación o uso no autorizado de este software, en todo o en
+parte, sin autorización previa y por escrito de Valcohr Analytics.
+
+El titular de la licencia de uso (Ramiara Marketing & Desarrollo) puede
+utilizar este software conforme a los términos pactados por separado.
+
+Este repositorio contiene los binarios y materiales de distribución. El código
+fuente permanece en el repositorio privado de Valcohr Analytics. La descarga o
+posesión de un instalador no concede derechos distintos de la licencia de uso.
+
+Contacto: analytics@valcohr.com
